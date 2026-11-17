@@ -172,7 +172,7 @@ France 24 ES,France 24 ES,https://media.tvup.cloud/canales/color_lg_5be96ae4d4f8
 France 24 EN,France 24 EN,https://media.tvup.cloud/canales/color_lg_5c05177bb7adda22348eadc4_1785319588314.png
 Cubavisión,Cubavisión,https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png
 Azteca Internacional,Azteca Internacional,https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png
-Clic,Clic,https://media.tvup.cloud/canales/color_lg_651e64f3f6f120941fda9012.png
+Conecta,Conecta,https://media.tvup.cloud/channels/651e64f3f6f120941fda9012logoColor_1794916367197.png
 Latidos,Latidos,https://media.tvup.cloud/channels/651fb35205baf16cc0cee4b0logoColor.png
 Record News,Record News,https://media.tvup.cloud/canales/color_lg_6523b7b6fd971de6c5568129.png
 Ecuavisa,Ecuavisa,https://media.tvup.cloud/canales/color_lg_67370b261e1c3816fa9569c1_1738687237781.png
@@ -283,6 +283,9 @@ Cooking Panda,Cooking Panda,https://media.tvup.cloud/canales/color_lg_6294d04cff
 Heritage+,Heritage+,https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png
 Wedo Big Stories,Wedo Big Stories,https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png
 Xtrem Sports,Xtrem Sports,https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png
+El País (dial 500),El País (dial 500),https://media.tvup.cloud/canales/color_lg_643d2785f5716200225c35bf.png
+Todo Pasión ,Todo Pasión ,https://media.tvup.cloud/canales/color_lg_692d6cfe82708370790bf99d_1764584702914.png
+Cry Babies (dial 502),Cry Babies (dial 502),https://media.tvup.cloud/canales/color_lg_69089cc65327d1f34a1385e5_1762172222900.png
 SIC Internacional,SIC Internacional,https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png
 SIC Noticias,SIC Noticias,https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png
 RTPi,RTPi,https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png
