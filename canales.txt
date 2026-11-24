@@ -316,9 +316,9 @@ Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.s
 Canal.ESPN.Premium.(Chile).sv,ESPN Premium.sv
 ESPN Premium,ESPN Premium.ms
 ESPN.Deportes.HD.us2,Espn Deportes.us
-Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
-Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
-Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
+Canal.Fox.Sports.(México).mx,Fox Sports MX.mx,https://ibb.co/Xxx9jtBZ
+Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx,https://ibb.co/qMsGdsTW
+Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx,https://ibb.co/JW23GrVb
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNB2l7S7C0IokqAMit3hmv5tmlfTdu7fq1Q&s
 1437,Fox Sports 2 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
 1438,Fox Sports 3 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
