@@ -134,6 +134,7 @@ Canal.6.de.Costa.Rica.sv,Repretel 6
 Multimedios Costa Rica,Multimedios 8.ms
 Canal.11.de.Costa.Rica.sv,Repretel 11
 13 de Costa Rica,Sinart canal 13.ms
+quinceucr.cr,Quince UCR
 FUTV,FUTV.ms
 Canal.FUTV.sv,Canal FUTV.sv
 Fox Costa Rica,Fox CR.ms
