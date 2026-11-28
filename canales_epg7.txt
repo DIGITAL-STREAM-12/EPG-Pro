@@ -1,2 +1,2 @@
-# Fuente: https://raw.githubusercontent.com/DIGITAL-STREAM-12/epg-trivi36/refs/heads/main/epg_trivision_diario.xml
-trivision.cr,Trivisión,
+# Fuente: https://raw.githubusercontent.com/DIGITAL-STREAM-12/epg-15UCR/master/epg_quinceucr.xml
+quinceucr.cr,Quince UCR,

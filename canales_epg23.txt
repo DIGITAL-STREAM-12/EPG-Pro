@@ -1,4 +1,4 @@
-# Fuente: https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml
+# Fuente: https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion
 0000,Sin información disponible,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0000.png
 0001,Programación Variada,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0001.png
 0002,PPV Eventos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0002.png
