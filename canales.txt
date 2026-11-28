@@ -128,7 +128,6 @@ BBC Series,BBC Series 720
 TUDN.us2,TUDN USA.us
 Canal.TUDN.(México).mx,TUDN MX.mx
 4 de Costa Rica,Repretel 4
-6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
 7 de Costa Rica Teletica,Teletica.ms
 Multimedios Costa Rica,Multimedios 8.ms
@@ -136,7 +135,6 @@ Canal.11.de.Costa.Rica.sv,Repretel 11
 13 de Costa Rica,Sinart canal 13.ms
 quinceucr.cr,Quince UCR
 FUTV,FUTV.ms
-Canal.FUTV.sv,Canal FUTV.sv
 Fox Costa Rica,Fox CR.ms
 FOX+ Centroamerica,Fox + Centro.ms
 Fox El Salvador,Fox El Salvador.ms
@@ -144,35 +142,23 @@ Fox Guatemala,Fox Guatemala.ms
 Fox Honduras,Fox Honduras.ms
 Fox Nicaragua,Fox Nicaragua.ms
 cv-FOX.mx,FOX One.ru
-rv-MERIDIANOTV.uy,Meridiano TV.ru
-rv-TELEVEN.uy,Televen.ru
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,11 de Guatemala.sv
 Canal.13.de.Guatemala.sv,13 de Guatemala.sv
 Canal.Antigua.(Guatemala).sv,Canal Antigua.sv
-Canal.Tigo.Sports.(Guatemala).sv,Tigo Sports Guate.sv
 Canal.2.de.El.Salvador.sv,2 de El Salvador.sv
 Canal.4.de.El.Salvador.sv,4 de El Salvador.sv
 Canal.6.de.El.Salvador.sv,6 de El Salvador.sv
 Canal.12.de.El.Salvador.sv,12 de El Salvador.sv
-Canal 19,Canal 19 SV.mi
 Canal.21.de.El.Salvador.(Megavisión).sv,21 El Salvador.sv
-VTV,VTV 35 SV.mi
-Canal.Tigo.Sports.(El.Salvador).sv,Tigo Sports El Salvador.sv
 Canal.5.El.Líder.(Honduras).sv,5 El Líder.sv
 Canal.9.de.Honduras.(Vica).sv,Vica TV.sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,TSI.sv
-Canal 11,Canal 11 HN.mi
-DTV,DTV HN.mi
-Hable Como Habla,HCH HN.mi
-Telecadena 7 y 4,Telecadena HN.mi
-Teleceiba,Teleceiba HN.mi
-Todo Deportes,Todo Deportes HN.mi
 Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
 Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
 Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
-Canal.4.de.Panamá.(RPC.TV).sv,4 de Panamá.sv
+Canal.4.de.Panamá.(RPC.TV).pa,4 de Panamá.sv
 Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
 Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
 Dreiko TV,Dreiko TV.ms
@@ -187,7 +173,6 @@ Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Cine.Estelar.us2,Cine Estelar.us
-Antena 3 Internacional,A3 Int.ga
 Canal.Cine.Sony.sv,Cine Sony.sv
 Sony.co,Sony CH.sv
 Canal.CNN.en.Español.sv,CNN Español.sv
@@ -219,9 +204,6 @@ TMC80s.40mediaGroup,Totalmusic 80s
 HITN,HITN.ga
 La Tele Paraguay,La Tele Paraguay.ga
 Unicanal,Unicanal PY.ga
-ABC TV,ABC TV PY.mi
-Paravisión,Paravisión PY.ms
-RPC,RPC PY.mi
 Telefuturo,Telefuturo PY.ms
 Meganoticias MX,Meganoticias MX.ga
 Canal.Discovery.Channel.(México).sv,Disc Channel.sv
@@ -244,7 +226,6 @@ Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
 Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7.mx
-0929,Azteca 7.pu
 Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
 0845,Univ. Comedy.pu,https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy-mediano.png,-3
 0843,Univ. Reality.pu
@@ -269,28 +250,22 @@ Comedy Central Centro,Comedy Central.ms
 0812,Comedy Central.pu
 Comedy.Central.co,Comedy Central.co
 Canal.1.co,Canal 1.co
+13 de Colombia Trece,Canal 13 CO.ms
 Capital Colombia,Capital.ga
-Canal.Trece.co,Trece.co
-Canal.TRO.co,TRO.co
 Canal.Zoom.co,Zoom.co
 City TV,City TV.ga
-EUROPA.EUROPA.co,EUROPA EUROPA.co
 NTN24.co,NTN24.co
 Señal Colombia,Señal Colombia.ga
 Teleantioquia,Teleantioquia.ga
-Telecafé,Telecafé.ga
 Telecaribe,Telecaribe.ga
 Teleislas,Teleislas.ga
 0953,Telemedellin.pu
-Telepacífico,Telepacifico.ga
 Tro,Canal Tro.ga
-ZOOM Colombia,ZOOM Colombia.ga
 Win.Sports.co,Win Sports.co
 0430,Win Sports+.pu
 Caracol TV,Caracol.ms
 CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 RCN.co,RCN.co
-RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
 NUESTRA.TELE.co,Nuestra Tele.co
 RCN.Novelas.co,RCN Novelas.co
 ESPN.co,ESPN.co
@@ -309,7 +284,6 @@ Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
 4412,ESPN 2 Norte.pu
 1413,ESPN 3 Norte.pu
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
-Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 2415,ESPN 5 Norte.pu
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
@@ -321,8 +295,8 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx,https://ibb.co/Xxx9jtBZ
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx,https://ibb.co/qMsGdsTW
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx,https://ibb.co/JW23GrVb
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNB2l7S7C0IokqAMit3hmv5tmlfTdu7fq1Q&s
-1437,Fox Sports 2 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
-1438,Fox Sports 3 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
+FOX Sports 2 Arg,Fox Sports 2 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
+FOX Sports 3 Arg,Fox Sports 3 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
@@ -333,7 +307,6 @@ Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
 Azteca Deportes,Azteca Deportes.ms
 beIN.Sports.En.Español.HD.us2,Bein ñ.us
-Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
 Teleclasica,Teleclasica.ms
@@ -342,22 +315,19 @@ Telesistema,Telesistema CR.ms
 Tv Retro Palmares,Tv Retro Palmares.ms
 TVS Retro,TVS Retro.ms
 Voice Over Radio TV,Voice Over TV.ms
-Canal Punto 99,Punto 99.ms
-Chespirito,Chespirito.ms
 El Chapulin,El Chapulin.ms
 El Chavo,El Chavo.ms
-Classic Channel HD,Classic Channel.ms
-Maxima TV,Maxima TV.ms
 Tigueritos TV,Tigueritos TV.ms
+2 de Republica Dominicana Teleantillas,Teleantillas.do
 5 de República Dominicana Telemicro,Telemicro.ms
-Canal.Telesistema.11.(República.Dominicana).dk,Telesistema 11.do
-Canal.2.de.República.Dominicana.(Teleantillas).dk,Teleantillas.do
-Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,Digital 15.do
-Canal.29.de.TeleUniverso.(República.Dominicana).dk,Teleuniverso.do
-Canal.7.de.Antena.Latina.(República.Dominicana).dk,Antena 7.do
-Canal.9.de.Color.Visión.(República.Dominicana).dk,Color Vision.do
-Canal.Telecentro.(13.de.República.Dominicana).dk,Telecentro.do
-Canal.Teleunion.(República.Dominicana).dk,Teleunion.do
+7 de Antena Latina,Antena 7.do
+9 de Color Vision Republica Dominicana,Color Vision.do
+Telesistema 11 Republica Dominicana,Telesistema 11.do
+Telecentro 13 de Republica Dominicana,Telecentro.do
+15 Digital Quince Telemicro Republica Dominicana,Digital 15.do
+29 de TeleUniverso Republica Dominicana,Teleuniverso.do
+Teleunion Republica Dominicana,Teleunion.do
+37 de Republica Dominicana CDN,CDN_RD.ms
 Punto 2 Puerto Rico,Punto 2.ms
 Frecuencia Musical TV,Frecuencia Musical TV.ms
 Norte Informativo TV,Norte Informativo.ms
